@@ -1,1 +1,1 @@
-Projeto de uma calculadora usando as ferramentas: HTML, CSS e JS.
+# Projeto de uma calculadora usando as ferramentas: HTML, CSS e JS.
